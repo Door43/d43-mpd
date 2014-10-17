@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mpd:home|Door43 (mpd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mpd|d43-mpd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mpd/archive/master.zip|d43-mpd.zip]]
+
+**Recent Changes**
+{{changes>ns = mpd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mpd|Ethnologue data]]
+
